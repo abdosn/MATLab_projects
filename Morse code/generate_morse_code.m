@@ -14,8 +14,7 @@ end
 
 audiowrite('generated_morse_code.wav',data,fs);
 
-figure('Name' , 'generated morse wave');
-plot(time,data);
-xlabel('Time(sec)');
 
+%player = audioplayer(data , fs);
+%playblocking(player);
 end

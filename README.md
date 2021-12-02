@@ -1,6 +1,6 @@
 # MATLab_projects
 
-## 1 - Morse code encoder & decoder
+## 1 - Morse code encoder & decoder 
 
 ## MAIN Functions
 
@@ -10,4 +10,4 @@ This function takes words and numbers from the .txt file and generates **generat
 
 ### decode_morse_code( WPM {word per minute} , file name.wav )
 
-This function reads .wav file , translates it and generates **decoded_morse_code.txt** file that contains letters and numbers
+This function reads .wav file , translates it , plot the sound signal and generates **decoded_morse_code.txt** file that contains letters and numbers
